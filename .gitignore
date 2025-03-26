@@ -1,3 +1,12 @@
+.DS_Store
+
+# model param files
+model_params/*
+
+#result files and input structure files
+outputs/*
+inputs/*.pdb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
